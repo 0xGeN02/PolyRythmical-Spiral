@@ -1,3 +1,3 @@
-# Polirhythmic Spiral
+# Polyrhythmic Spiral
 
-This polirhythmic spiral effect was inspired by the awesome work of @project_jdm on YouTube.
+This polyrhythmic spiral effect was inspired by the awesome work of @project_jdm on YouTube.
